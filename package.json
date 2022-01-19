@@ -1,15 +1,22 @@
 {
-  "name": "cci-yingji-cli",
+  "name": "liangsl-cli",
   "version": "1.0.0",
-  "description": "a vue-cli for cci yingji",
-  "main": "index.js",
+  "description": "a vue-cli for myself",
   "bin": {
-    "cci-yingji": "./bin/cli.js"
+    "liangsl-cli": "./bin/cli.js"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "files": [
+    "bin",
+    "lib"
+  ],
+  "author": {
+    "name": "liangshenglin",
+    "email": "641579182@qq.com"
   },
-  "author": "liangsl",
+  "keywords": [
+    "liangsl-cli",
+    "脚手架"
+  ],
   "license": "ISC",
   "dependencies": {
     "axios": "^0.25.0",
