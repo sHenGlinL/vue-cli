@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Element-Plus",
+    "value": "element",
+    "short": "Element",
+    "description": "Element Plus，一套为开发者、设计师和产品经理准备的基于 Vue 3 的桌面端组件库",
+    "link": "https://element-plus.gitee.io/zh-CN/#/zh-CN",
+    "checked": true
+  },
+  {
+    "name": "Vue-Router",
+    "value": "router",
+    "short": "Router",
+    "description": "The official router for Vue.js",
+    "link": "https://router.vuejs.org/",
+    "checked": true
+  },
+  {
+    "name": "Vuex",
+    "value": "vuex",
+    "short": "Vuex",
+    "description": "Vuex is a state management pattern + library for Vue.js applications",
+    "link": "https://vuex.vuejs.org/",
+    "checked": false
+  },
+  {
+    "name": "Axios",
+    "value": "axios",
+    "short": "Axios",
+    "description": "Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。",
+    "link": "http://www.axios-js.com/",
+    "checked": false
+  },
+  {
+    "name": "Lodash",
+    "value": "lodash",
+    "short": "Lodash",
+    "description": "A modern JavaScript utility library delivering modularity, performance & extras.",
+    "link": "https://lodash.com/",
+    "checked": false
+  },
+  {
+    "name": "Moment.js",
+    "value": "moment",
+    "short": "Moment",
+    "description": "JavaScript日期处理类库",
+    "link": "http://momentjs.cn/",
+    "checked": false
+  }
+]
