@@ -3,8 +3,8 @@
     "name": "Element-UI",
     "value": "element",
     "short": "Element",
-    "description": "Element Plus，一套为开发者、设计师和产品经理准备的基于 Vue 3 的桌面端组件库",
-    "link": "https://element-plus.gitee.io/zh-CN/#/zh-CN",
+    "description": "Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库",
+    "link": "https://element.eleme.cn/#/zh-CN",
     "checked": true
   },
   {
@@ -12,7 +12,7 @@
     "value": "router",
     "short": "Router",
     "description": "The official router for Vue.js",
-    "link": "https://router.vuejs.org/",
+    "link": "https://v3.router.vuejs.org/zh/",
     "checked": true
   },
   {
@@ -20,7 +20,15 @@
     "value": "vuex",
     "short": "Vuex",
     "description": "Vuex is a state management pattern + library for Vue.js applications",
-    "link": "https://vuex.vuejs.org/",
+    "link": "https://v3.vuex.vuejs.org/zh/",
+    "checked": false
+  },
+  {
+    "name": "Axios",
+    "value": "axios",
+    "short": "Axios",
+    "description": "Axios 是一个基于 promise 的 HTTP 库，可以用在浏览器和 node.js 中。",
+    "link": "http://www.axios-js.com/",
     "checked": false
   },
   {
