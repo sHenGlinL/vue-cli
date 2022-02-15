@@ -11,7 +11,7 @@ program
 program
   .on('--help', () => {
     // 新增说明信息
-    console.log(`\r\nRun ${chalk.cyan(`cci-yingji <command> --help`)} show details\r\n`)
+    console.log(`\r\nRun ${chalk.cyan(`liangsl-cli <command> --help`)} show details\r\n`)
   })
 
 program
